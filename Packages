@@ -1,11 +1,11 @@
 Package: oscam-config-kdg-vbs
-Version: 1.8
+Version: 1.9
 Depends: enigma2-plugin-cams-oscam.1.20.11377
 Section: system
 Architecture: all
-MD5Sum: f65effb9c6fc45f2cd5721425a9516ef
-Size: 1142
-Filename: oscam-config-kdg-vbs_1.8_all.ipk
+MD5Sum: a954dcc39d85d87728b195a9380a8792
+Size: 1584
+Filename: oscam-config-kdg-vbs_1.9_all.ipk
 Description: vbs' oscam configuration files for KDG
 Maintainer: vbs
 Source: http://www.oscam.cc/svn/oscam-mirror/trunk
