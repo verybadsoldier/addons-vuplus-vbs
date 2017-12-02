@@ -1,3 +1,27 @@
+Package: enigma2-plugin-extensions-fhemevents
+Version: 2.1
+Section: system
+Architecture: all
+MD5Sum: bd85e4d60ff3c04f8164e38f16be7fce
+Size: 1962
+Filename: enigma2-plugin-extensions-fhemevents_2.1_all.ipk
+Description: Set play status readings in FHEM device
+Maintainer: vbs
+Source: 
+
+
+Package: enigma2-plugin-extensions-webhdmicec
+Version: 1.4
+Section: system
+Architecture: all
+MD5Sum: 7dbf62535f86d5eee8bbb21d23f1a9f8
+Size: 1422
+Filename: enigma2-plugin-extensions-webhdmicec_1.4_all.ipk
+Description: Provides web interface for HDMI CEC commands
+Maintainer: vbs
+Source: 
+
+
 Package: oscam-config-kdg-vbs
 Version: 1.9
 Depends: enigma2-plugin-cams-oscam.1.20.11377
