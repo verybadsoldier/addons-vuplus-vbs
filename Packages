@@ -1,3 +1,15 @@
+Package: config-backup-vbs
+Version: 1.1
+Section: system
+Architecture: all
+MD5Sum: 0da3cc114559c01b0d7405b112a5f015
+Size: 1002
+Filename: config-backup-vbs_1.1_all.ipk
+Description: Config backup script by vbs
+Maintainer: vbs
+Source: 
+
+
 Package: enigma2-plugin-extensions-fhemevents
 Version: 2.1
 Section: system
