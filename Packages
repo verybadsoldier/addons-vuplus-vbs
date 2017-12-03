@@ -2,8 +2,8 @@ Package: config-backup-vbs
 Version: 1.1
 Section: system
 Architecture: all
-MD5Sum: 0da3cc114559c01b0d7405b112a5f015
-Size: 1002
+MD5Sum: 5af38dd51aa39712bd5f74de56893bf2
+Size: 1000
 Filename: config-backup-vbs_1.1_all.ipk
 Description: Config backup script by vbs
 Maintainer: vbs
