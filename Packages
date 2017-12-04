@@ -10,6 +10,18 @@ Maintainer: vbs
 Source: 
 
 
+Package: enigma2-picon-xpicons-220x88-stefanbenno6-kabeldeutschland-vbs
+Version: 1.1
+Section: system
+Architecture: all
+MD5Sum: 17080f14bed7398a14e1a52236e0a302
+Size: 4621392
+Filename: enigma2-picon-xpicons-220x88-stefanbenno6-kabeldeutschland-vbs_1.1_all.ipk
+Description: XPicons Kabel Deutschland from stefanbenno6
+Maintainer: vbs
+Source: 
+
+
 Package: enigma2-plugin-extensions-fhemevents
 Version: 2.1
 Section: system
