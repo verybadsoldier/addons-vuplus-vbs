@@ -11,12 +11,12 @@ Source:
 
 
 Package: enigma2-picon-stefanbenno6-fullsize-zz-400x160-vodafone-vbs
-Version: 1.2.
+Version: 1.3
 Section: system
 Architecture: all
-MD5Sum: e1492cc4ba559d267454caaa5fb590f5
-Size: 4621396
-Filename: enigma2-picon-stefanbenno6-fullsize-zz-400x160-vodafone-vbs_1.2._all.ipk
+MD5Sum: 8b5602a599c57a3b640744fab6549448
+Size: 13796296
+Filename: enigma2-picon-stefanbenno6-fullsize-zz-400x160-vodafone-vbs_1.3_all.ipk
 Description: FullSize ZZ Picons 400x160 from stefanbenno6 for Vodafone
 Maintainer: vbs
 Source: 
