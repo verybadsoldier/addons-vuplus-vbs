@@ -34,6 +34,18 @@ Maintainer: vbs
 Source: 
 
 
+Package: enigma2-vfdskin-schermbeck
+Version: 1.0
+Section: system
+Architecture: all
+MD5Sum: 626fbbed0a8b9e543c3613139054e9e3
+Size: 91656
+Filename: enigma2-vfdskin-schermbeck_1.0_all.ipk
+Description: VFD skin Fluid style
+Maintainer: Schermbeck
+Source: 
+
+
 Package: oscam-config-kdg-vbs
 Version: 1.9
 Depends: enigma2-plugin-cams-oscam.1.20.11377
