@@ -1,24 +1,12 @@
-Package: enigma2-picon-stefanbenno6-fullsize-zz-400x160-vodafone-vbs
-Version: 1.3
+Package: enigma2-vfdskin-schermbeck
+Version: 1.0
 Section: system
 Architecture: all
-MD5Sum: 8b5602a599c57a3b640744fab6549448
-Size: 13796296
-Filename: enigma2-picon-stefanbenno6-fullsize-zz-400x160-vodafone-vbs_1.3_all.ipk
-Description: FullSize ZZ Picons 400x160 from stefanbenno6 for Vodafone
-Maintainer: vbs
-Source: 
-
-
-Package: enigma2-plugin-extensions-fhemevents
-Version: 2.1
-Section: system
-Architecture: all
-MD5Sum: bd85e4d60ff3c04f8164e38f16be7fce
-Size: 1962
-Filename: enigma2-plugin-extensions-fhemevents_2.1_all.ipk
-Description: Set play status readings in FHEM device
-Maintainer: vbs
+MD5Sum: 626fbbed0a8b9e543c3613139054e9e3
+Size: 91656
+Filename: enigma2-vfdskin-schermbeck_1.0_all.ipk
+Description: VFD skin Fluid style
+Maintainer: Schermbeck
 Source: 
 
 
@@ -34,28 +22,40 @@ Maintainer: vbs
 Source: 
 
 
-Package: enigma2-vfdskin-schermbeck
-Version: 1.0
-Section: system
-Architecture: all
-MD5Sum: 626fbbed0a8b9e543c3613139054e9e3
-Size: 91656
-Filename: enigma2-vfdskin-schermbeck_1.0_all.ipk
-Description: VFD skin Fluid style
-Maintainer: Schermbeck
-Source: 
-
-
 Package: oscam-config-kdg-vbs
-Version: 1.9
-Depends: enigma2-plugin-cams-oscam.1.20.11377
+Version: 1.10
+Depends: enigma2-plugin-cams-oscam.1.20.11431
 Section: system
 Architecture: all
-MD5Sum: a954dcc39d85d87728b195a9380a8792
-Size: 1584
-Filename: oscam-config-kdg-vbs_1.9_all.ipk
+MD5Sum: 7d257c904b540ba0a9affa6d9ce4a752
+Size: 1768
+Filename: oscam-config-kdg-vbs_1.10_all.ipk
 Description: vbs' oscam configuration files for KDG
 Maintainer: vbs
 Source: http://www.oscam.cc/svn/oscam-mirror/trunk
+
+
+Package: enigma2-plugin-extensions-fhemevents
+Version: 2.1
+Section: system
+Architecture: all
+MD5Sum: bd85e4d60ff3c04f8164e38f16be7fce
+Size: 1962
+Filename: enigma2-plugin-extensions-fhemevents_2.1_all.ipk
+Description: Set play status readings in FHEM device
+Maintainer: vbs
+Source: 
+
+
+Package: enigma2-picon-stefanbenno6-fullsize-zz-400x160-vodafone-vbs
+Version: 1.3
+Section: system
+Architecture: all
+MD5Sum: 8b5602a599c57a3b640744fab6549448
+Size: 13796296
+Filename: enigma2-picon-stefanbenno6-fullsize-zz-400x160-vodafone-vbs_1.3_all.ipk
+Description: FullSize ZZ Picons 400x160 from stefanbenno6 for Vodafone
+Maintainer: vbs
+Source: 
 
 
