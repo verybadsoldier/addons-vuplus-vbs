@@ -1,10 +1,10 @@
 Package: enigma2-emc-hide-emptydirs
-Version: 1.0
+Version: 1.0.1
 Section: system
 Architecture: all
-MD5Sum: 59c2f34379fa4cb4e7455b8c10aedd38
-Size: 1414
-Filename: enigma2-emc-hide-emptydirs_1.0_all.ipk
+MD5Sum: cc75da1851dc26c710ce87bffadda3f3
+Size: 1406
+Filename: enigma2-emc-hide-emptydirs_1.0.1_all.ipk
 Description: Generate an emc_hide.cfg on boot to hide empty directories
 Maintainer: vbs
 Source: 
