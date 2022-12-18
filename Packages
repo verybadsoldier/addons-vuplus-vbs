@@ -1,3 +1,15 @@
+Package: enigma2-config-backup
+Version: 2.0.1
+Section: system
+Architecture: all
+MD5Sum: fa25d5b5bcfdeeae7e4667fb24ce118c
+Size: 1076
+Filename: enigma2-config-backup_2.0.1_all.ipk
+Description: Backups config directories one a month to /media/hdd
+Maintainer: vbs
+Source: 
+
+
 Package: enigma2-emc-hide-emptydirs
 Version: 1.0.2
 Section: system
