@@ -58,6 +58,19 @@ Maintainer: vbs
 Source: 
 
 
+Package: enigma2-plugin-skin-fluid
+Version: 3.137-r0
+Depends: libpython2.7-1.0 (>= 2.7.9), python-ultrajson, enigma2-plugin-systemplugins-exteventinfohandler, python-requests, python-core, libc6 (>= 2.21), python-imaging
+Section: base
+Architecture: armv7ahf-vfp-neon
+MD5Sum: afc2c213ad5a43bb369169b8844cf0e9
+Size: 9537252
+Filename: enigma2-plugin-skin-fluid_3.137-r0_armv7ahf-vfp-neon.ipk
+Description: Fluid Skin for VTI
+Maintainer: hmmmdada
+Source: git://git@192.168.2.63:3000/Henrik/fluid.git;protocol=http; file://setup.py
+
+
 Package: enigma2-vfdskin-schermbeck
 Version: 1.0
 Section: system
