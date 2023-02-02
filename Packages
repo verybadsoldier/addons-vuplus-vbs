@@ -95,6 +95,18 @@ Maintainer: Schermbeck
 Source: 
 
 
+Package: enigma2-watchdog
+Version: 1.0.0
+Section: system
+Architecture: all
+MD5Sum: 0aa7cc075b4f7a70ee04219fd17e6c7d
+Size: 1494
+Filename: enigma2-watchdog_1.0.0_all.ipk
+Description: Periodically try to connect to the enigma2 webserver to check if its still alive. Reboot if it is hanging
+Maintainer: vbs
+Source: 
+
+
 Package: oscam-config-kdg-vbs
 Version: 1.13
 Section: system
