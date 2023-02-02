@@ -71,6 +71,18 @@ Maintainer: hmmmdada
 Source: git://git@192.168.2.63:3000/Henrik/fluid.git;protocol=http; file://setup.py
 
 
+Package: enigma2-vfdskin-schermbecker-vbs
+Version: 1.0
+Section: system
+Architecture: all
+MD5Sum: 73dcef7aca06f3da5e02f198e41dba93
+Size: 139402
+Filename: enigma2-vfdskin-schermbecker-vbs_1.0_all.ipk
+Description: VFD skin Fluid style (vbs mod)
+Maintainer: Schermbecker/vbs
+Source: 
+
+
 Package: enigma2-vfdskin-schermbeck
 Version: 1.0
 Section: system
