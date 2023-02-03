@@ -71,6 +71,18 @@ Maintainer: hmmmdada
 Source: git://git@192.168.2.63:3000/Henrik/fluid.git;protocol=http; file://setup.py
 
 
+Package: enigma2-startlogo-regedit-vbs
+Version: 1.0.0
+Section: system
+Architecture: all
+MD5Sum: fa6c82d26ab27a09774cdd92ffe602ae
+Size: 2457186
+Filename: enigma2-startlogo-regedit-vbs_1.0.0_all.ipk
+Description: Startlogos by regedit selected and packaged by vbs
+Maintainer: vbs
+Source: 
+
+
 Package: enigma2-vfdskin-schermbecker-vbs
 Version: 1.0
 Section: system
