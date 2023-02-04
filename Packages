@@ -108,12 +108,12 @@ Source:
 
 
 Package: enigma2-watchdog
-Version: 1.1.1
+Version: 1.1.2
 Section: system
 Architecture: all
-MD5Sum: 018572c786c72d8058b1111145a2ec8a
-Size: 1504
-Filename: enigma2-watchdog_1.1.1_all.ipk
+MD5Sum: 4d45a1bae16f7b04c6c7c3e42e31ff54
+Size: 1560
+Filename: enigma2-watchdog_1.1.2_all.ipk
 Description: Periodically try to connect to the enigma2 webserver to check if its still alive. Reboot if it is hanging
 Maintainer: vbs
 Source: 
